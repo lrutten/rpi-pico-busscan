@@ -1,6 +1,6 @@
 # I2C Busscan on Raspberry Pi Pico
 
-This example is taken from the `https://github.com/raspberrypi/pico-examples.git`.
+This example is taken from the [https://github.com/raspberrypi/pico-examples.git](https://github.com/raspberrypi/pico-examples.git).
 
 The I2C0 controller is in use. Connect your I2C device with these pins:
 
